@@ -10,3 +10,6 @@ cache simulator module with some configurable parameters. This cache module can 
 flexible two level cache memory hierarchy simulator using the CACHE module designed. The 
 simulator will take an input in a standard format which describes the read/write requests 
 from the processor.
+
+This project was submitted as part of a graduate level course (ECE 521: Computer Design and Technology)
+taught by Professor Huiyang Zhou at the North Carolina State University.
