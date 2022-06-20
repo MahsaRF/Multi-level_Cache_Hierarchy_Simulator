@@ -11,8 +11,9 @@ flexible two level cache memory hierarchy simulator using the CACHE module desig
 simulator will take an input in a standard format which describes the read/write requests 
 from the processor.
 
-•	Configurable in terms of inclusion policies (Non-Inclusive, Inclusive and Exclusive) and replacement policies (‘Least Recently Used’ and ‘Least Frequently Used’) in conjunction with Write-back or Write-through, with and without allocation.  
-•	Simulator configures the cache parameters such as block size, cache size and associativity
+•	  Configurable in terms of inclusion policies (Non-Inclusive, Inclusive and Exclusive) and 
+    replacement policies (‘Least Recently Used’ and ‘Least Frequently Used’) in conjunction with Write-back or Write-through, with and without allocation.  
+•	  Simulator configures the cache parameters such as block size, cache size and associativity
 
 This project was submitted as part of a graduate level course (ECE 521: Computer Design and Technology)
 taught by Professor Huiyang Zhou at the North Carolina State University.
