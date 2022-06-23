@@ -1,5 +1,4 @@
-# Multi-level_Cache_Hierarchy_Simulator
-Multi-level Cache Hierarchy Simulator written in C++
+# Multi-level Cache Hierarchy Simulator
 
 Project Overview 
 
